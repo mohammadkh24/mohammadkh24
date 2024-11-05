@@ -1,5 +1,16 @@
 # 💫 About Me:
-Junior Frontend developer
+Front-End Developer with Expertise in Web Design and Development
+
+As a Front-End Developer with expertise in HTML, CSS, JavaScript, and modern frameworks, I apply my skills to develop dynamic and responsive user interfaces. I have extensive experience using modern tools and advanced technologies such as Tailwind CSS and Sass to create beautiful, user-friendly websites. With a strong command of Git and GitHub, I efficiently manage version control and collaborate in team projects. In my recent work, I’ve used React and Redux to build complex and scalable single-page applications (SPAs). Additionally, I’ve worked with Next.js to develop fast, scalable, and SEO-optimized web applications.
+
+Skills:
+
+Programming Languages: HTML5, CSS3, JavaScript (ES6+)
+Frameworks and Libraries: React, Redux, Next.js
+Tools and Technologies: Tailwind CSS, Sass, Git, GitHub
+Responsive Design and Development: Creating web pages optimized for different devices and screen sizes
+Performance and SEO: Optimizing performance and enhancing user experience
+Project Management: Utilizing Git and GitHub for team collaboration and code management
 
 
 ## 🌐 Socials:
