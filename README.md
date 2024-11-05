@@ -1,3 +1,5 @@
+<h2>This is Mohammad Khataei! A Junior Frontend Programmer</h2>
+
 <h1>My Expertise</h1>
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,sass,git,github,react,redux,next" />
 
