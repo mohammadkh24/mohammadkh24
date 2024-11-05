@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1>My Skills</h1>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,sass,git,github,react,redux,next" />
 
 <!--
 **mohammadkh24/mohammadkh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
