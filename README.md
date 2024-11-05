@@ -1,5 +1,5 @@
 # 💫 About Me:
-unior Developer with experience in designing and developing responsive and interactive websites.
+junior Developer with experience in designing and developing responsive and interactive websites.
 Proficient in HTML, CSS, JavaScript, and modern frameworks like React and Next.js, with the ability to create user-friendly and optimized user interfaces. Deep familiarity with project management tools like Git and GitHub, as well as advanced frameworks like Tailwind CSS and Sass for building modern and scalable UI components. Always eager to improve technical skills and keep knowledge up-to-date in the field of web development.
 
 
