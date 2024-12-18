@@ -1,17 +1,10 @@
-# 💫 About Me:
-Front-End Developer with Expertise in Web Design and Development
+**About Me**:  
 
-As a Front-End Developer with expertise in HTML, CSS, JavaScript, and modern frameworks, I apply my skills to develop dynamic and responsive user interfaces. I have extensive experience using modern tools and advanced technologies such as Tailwind CSS and Sass to create beautiful, user-friendly websites. With a strong command of Git and GitHub, I efficiently manage version control and collaborate in team projects. In my recent work, I’ve used React and Redux to build complex and scalable single-page applications (SPAs). Additionally, I’ve worked with Next.js to develop fast, scalable, and SEO-optimized web applications.
+I am a **backend developer** specializing in **Node.js** and **Express.js**, with significant experience in designing and developing server-side systems. I have comprehensive expertise in **MongoDB** as a NoSQL database, with strong skills in designing and optimizing scalable and efficient databases.  
 
-Skills:
+I have experience working in collaborative team environments and am familiar with tools and methodologies such as **Git**, **Agile practices**, and **team task management**. My strengths include problem-solving, delivering creative solutions for various projects, and maintaining effective communication and collaboration with team members.  
 
-Programming Languages: HTML5, CSS3, JavaScript (ES6+)
-Frameworks and Libraries: React, Redux, Next.js
-Tools and Technologies: Tailwind CSS, Sass, Git, GitHub
-Responsive Design and Development: Creating web pages optimized for different devices and screen sizes
-Performance and SEO: Optimizing performance and enhancing user experience
-Project Management: Utilizing Git and GitHub for team collaboration and code management
-
+I am passionate about learning new technologies and continuously updating my skills to deliver the highest quality in software development. 🌟
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammad_khataei8) 
