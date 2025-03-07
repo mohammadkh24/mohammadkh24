@@ -34,7 +34,7 @@ I specialize in **Node.js** and **Express.js**, with a strong focus on building 
 
 
 ## Connect with me  
-<div align="center">
+<div >
 <a href="https://instagram.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
