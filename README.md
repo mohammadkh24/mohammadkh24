@@ -14,7 +14,7 @@ I specialize in **Node.js** and **Express.js**, with a strong focus on building 
 - **Technologies:** MySQL
 
 # 💼 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,expressjs,mongo,mysql,git,github,postman,swagger&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,expressjs,mongo,mysql,git,github,&theme=dark)](https://skillicons.dev)
 
 ## 🚀 Ongoing Projects 
 
