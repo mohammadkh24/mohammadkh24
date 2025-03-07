@@ -22,6 +22,4 @@ I specialize in **Node.js** and **Express.js**, with a strong focus on building 
 
 Check out some of my cool projects:
 
-- 🍽️ **[Toranj](https://toranj.vercel.app)** - The Future of Online Shopping, Powered by  
-  ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-
+- 🍽️ **[Toranj](https://toranj.vercel.app)** - Toranj is a modern food ordering platform.
