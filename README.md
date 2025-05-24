@@ -21,3 +21,4 @@ I specialize in **Node.js** and **Express.js**, with a strong focus on building 
 Check out some of my cool projects:
 
 - 🍽️ **[Toranj](https://toranj.vercel.app)** - Toranj is a modern food ordering platform.
+- 🔏 **[Auth-Service](https://auth-service-yfvp.onrender.com/document/)** - An OTP-based authentication API
