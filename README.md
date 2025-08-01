@@ -14,7 +14,7 @@ I specialize in **Node.js** and **Express.js**, with a strong focus on building 
 - **Technologies:** Nest.js
 
 # 💼 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,expressjs,mongo,mysql,redis,git,github,typescript,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,expressjs,mongo,mysql,redis,typescript,nestjs,linux,git,github&theme=dark)](https://skillicons.dev)
 
 ## 🚀 Ongoing Projects 
 
