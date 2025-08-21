@@ -16,9 +16,3 @@ I specialize in **Node.js** and **Express.js**, with a strong focus on building 
 # 💼 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,expressjs,mongo,mysql,redis,postgresql,typescript,nestjs,linux,git,github&theme=dark)](https://skillicons.dev)
 
-## 🚀 Ongoing Projects 
-
-Check out some of my cool projects:
-
-- 🍽️ **[Toranj](https://toranj.vercel.app)** - Toranj is a modern food ordering platform.
-- 🔏 **[Auth-Service](https://auth-service-yfvp.onrender.com/document/)** - An OTP-based authentication API
