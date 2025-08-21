@@ -18,5 +18,5 @@ I specialize in **Node.js** and **Express.js**, with a strong focus on building 
 
 ## 🚀 Ongoing Projects 
 
-**Auth Service**
-**Tak Shop**
+- **Auth Service🔏**
+- **Tak Shop🛍️**
