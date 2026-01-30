@@ -14,7 +14,7 @@ I specialize in **Node.js** and **Express.js**, with a strong focus on building 
 - **Technologies:** docker
 
 # 💼 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,expressjs,mongo,mysql,redis,postgresql,typescript,nestjs,linux,docker,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,expressjs,mongo,mysql,redis,postgresql,typescript,nestjs,linux,docker,git,github,typeorm&theme=dark)](https://skillicons.dev)
 
 ## 🚀 Ongoing Projects 
 
