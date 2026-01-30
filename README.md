@@ -19,4 +19,5 @@ I specialize in **Node.js** and **Nest.js**, with a strong focus on building sca
 ## 🚀 Ongoing Projects 
 
 - **Auth Service🔏**
-- **Tak Shop🛍️**
+- **Zarin-Wallet💳**
+- **ChatLine💭**
