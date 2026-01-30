@@ -1,11 +1,11 @@
 ## 👨‍💻 Hi, I'm Mohammad, a Backend Developer!
 
-I specialize in **Node.js** and **Express.js**, with a strong focus on building scalable and efficient server-side systems. With comprehensive experience in **MongoDB** as a NoSQL database, I excel in designing and optimizing databases to support high-performance applications.</div>  
+I specialize in **Node.js** and **Nest.js**, with a strong focus on building scalable and efficient server-side systems. With comprehensive experience in **PostgreS** as a SQL database, I excel in designing and optimizing databases to support high-performance applications.</div>  
   
 
 - ### 🚀 My Expertise:
-- **Backend Development:** Node.js, Express.js
-- **Databases:** MongoDB (NoSQL) , MySQL (SQL)
+- **Backend Development:** Node.js, Nest.js
+- **Databases:** MongoDB (NoSQL) , MySQL (SQL) , Redis(NoSQL) , Postgre(SQL)
 - **Version Control:** Git
 - **Collaboration:** Agile methodologies, team task management  
   
